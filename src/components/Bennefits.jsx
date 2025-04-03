@@ -5,7 +5,6 @@ const Bennefits = () => {
     <>
       <div className="flex-col bg-white items-center px-18 pb-18">
         <h4 className="font-bold text-xl">Por que a Terapy é boa para você?</h4>{" "}
-        {/* Aumentado */}
         <p className="text-gray-500 pb-6 text-lg">
           Saiba todos os benefícios de utilizar a Terapy na sua rotina
         </p>
@@ -13,7 +12,6 @@ const Bennefits = () => {
           <div className="flex-col">
             <div className="text-xl font-bold flex">
               <i className="text-3xl pt-[3px] bx bx-info-circle pr-4"></i>{" "}
-              {/* Aumentado */}
               <h1>Eficiência no acompanhamento</h1>
             </div>
             <div className="ml-12 mr-14 pb-8">
@@ -27,7 +25,6 @@ const Bennefits = () => {
           <div className="flex-col">
             <div className="text-xl font-bold flex">
               <i className="text-3xl pt-[3px] bx bx-info-circle pr-4"></i>{" "}
-              {/* Aumentado */}
               <h1>Maior organização</h1>
             </div>
             <div className="ml-12 mr-14 pb-8">
@@ -41,7 +38,6 @@ const Bennefits = () => {
           <div className="flex-col">
             <div className="text-xl font-bold flex">
               <i className="text-3xl pt-[3px] bx bx-info-circle pr-4"></i>{" "}
-              {/* Aumentado */}
               <h1>Seu trabalho fica mais fácil</h1>
             </div>
             <div className="ml-12 mr-14 pb-8">
@@ -55,7 +51,6 @@ const Bennefits = () => {
           <div className="flex-col">
             <div className="text-xl font-bold flex">
               <i className="text-3xl pt-[3px] bx bx-info-circle pr-4"></i>{" "}
-              {/* Aumentado */}
               <h1>A comunicação é nosso lema</h1>
             </div>
             <div className="ml-12 mr-14 pb-8">
@@ -69,7 +64,6 @@ const Bennefits = () => {
           <div className="flex-col">
             <div className="text-xl font-bold flex">
               <i className="text-3xl pt-[3px] bx bx-info-circle pr-4"></i>{" "}
-              {/* Aumentado */}
               <h1>Você fica mais produtivo</h1>
             </div>
             <div className="ml-12 mr-14 pb-8">
@@ -83,7 +77,6 @@ const Bennefits = () => {
           <div className="flex-col">
             <div className="text-xl font-bold flex">
               <i className="text-3xl pt-[3px] bx bx-info-circle pr-4"></i>{" "}
-              {/* Aumentado */}
               <h1>Temos tudo para você</h1>
             </div>
             <div className="ml-12 mr-14 pb-8">
